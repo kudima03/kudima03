@@ -1,1 +1,1 @@
-[![committers.top badge](https://user-badge.committers.top/belarus/USERNAME.svg)](https://user-badge.committers.top/belarus/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/belarus/kudima03.svg)](https://user-badge.committers.top/belarus/kudima03)
