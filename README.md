@@ -1,6 +1,6 @@
 
-[<img align="left" alt="kudima03 | Gmail" width="22px" src="https://raw.githubusercontent.com/kudima03/kudima03/refs/heads/docs/profile-readme/icons/mail.svg" />](mailto:dmitry.kurochkin0@gmail.com)
-[<img align="left" alt="kudima03 | NuGet" width="22px" src="https://raw.githubusercontent.com/kudima03/kudima03/refs/heads/docs/profile-readme/icons/nuget.svg" />](https://www.nuget.org/profiles/kudima03)
+[<img align="left" alt="kudima03 | Gmail" width="22px" src="icons/mail.svg" />](mailto:dmitry.kurochkin0@gmail.com)
+[<img align="left" alt="kudima03 | NuGet" width="22px" src="icons/nuget.svg" />](https://www.nuget.org/profiles/kudima03)
 <br/>
 
 You may be interested in:
