@@ -6,6 +6,13 @@
     <defs>
         <polygon id="path-1" points="0 46.021103 0 3.7002935 84.6521577 3.7002935 84.6521577 88.3419125 0 88.3419125"></polygon>
     </defs>
+    <style type="text/css">
+      path { fill: #004880; }
+      @media (prefers-color-scheme: dark) {
+        path { fill: #4A9EDA; }
+      }
+    </style>
+
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="nuget">
             <g id="Global/Logo" transform="translate(0.000000, 6.000000)">
