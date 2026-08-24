@@ -5,7 +5,7 @@
 
 You may be interested in:
 
-1. **[Pure](https://github.com/kudima03/Pure)** — Ecosystem bringing [pure OOP](https://github.com/kudima03/talks/blob/main/pure-ecosystem/en/pure-ecosystem-talk.md) (inspired by [@objectionary](https://github.com/objectionary) and  [φ-calculus](https://arxiv.org/pdf/2111.13384)) into .NET.
+1. **[Pure](https://github.com/kudima03/Pure)** — Ecosystem bringing [pure OOP](https://github.com/kudima03/talks/blob/main/pure-ecosystem/en/pure-ecosystem-talk.md) (inspired by [φ-calculus](https://arxiv.org/pdf/2111.13384) and [@objectionary](https://github.com/objectionary)) into .NET.
 2. **[PureQL](https://github.com/kudima03/PureQL-Specification)** — a JSON-based declarative relational data query language.
 3. **[Talks](https://github.com/kudima03/talks)**
 
